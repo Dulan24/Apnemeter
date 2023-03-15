@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetP1_3 Pin=P3-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P3-2
+Removed Pin From Net: NetName=+5 Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Pin From Net: NetName=+5 Pin=P4-5
+Removed Pin From Net: NetName=GND Pin=P4-6
+Change Component Comment : Designator=P3 Old Comment=OLED display New Comment=Blutooth module
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=+5 Pin=P3-4
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U2-17
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=U2-16
+Added Net: Name=NetP3_2

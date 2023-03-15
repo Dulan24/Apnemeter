@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=  NewDesignator= C3
+Change Component Designator: OldDesignator= 1 NewDesignator=C4
+Change component parameters: Designator = " " (" "); Footprint = "CAPR5-4X5"; UniqueID = "\LCRMWQCL" ("\LCRMWQCL")
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = " 1" (" 1"); Footprint = "CAPR5-4X5"; UniqueID = "\WODGKHKS" ("\WODGKHKS")
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net 1_1 New Net Name=NetC4_1
